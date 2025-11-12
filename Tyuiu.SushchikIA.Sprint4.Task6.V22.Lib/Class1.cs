@@ -6,7 +6,8 @@ namespace Tyuiu.SushchikIA.Sprint4.Task6.V22.Lib
         public string[] Calculate(string[] array)
         {
             string[] myArray = new string[array.Length];
-            return myArray;
+            string[] weather = { "Снег", "Град", "Туча" };
+            return weather;
         }
     }
 }

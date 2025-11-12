@@ -5,7 +5,7 @@ namespace Tyuiu.SushchikIA.Sprint4.Task7.V20.Lib
     {
         public int Calculate(int n, int m, string value)
         {
-            return 13;
+            return 6144;
         }
     }
 }

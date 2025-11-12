@@ -1,4 +1,5 @@
-﻿namespace Tyuiu.SushchikIA.Sprint4.Task2.V27.Test
+﻿using Tyuiu.SushchikIA.Sprint4.Task2.V27.Lib;
+namespace Tyuiu.SushchikIA.Sprint4.Task2.V27.Test
 {
     [TestClass]
     public sealed class Test1

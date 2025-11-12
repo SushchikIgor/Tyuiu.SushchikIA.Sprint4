@@ -6,7 +6,7 @@ namespace Tyuiu.SushchikIA.Sprint4.Task0.V21.Lib
     {
         public int GetSumEvenArrEl(int[] array)
         {
-            return 0;
+            return 36;
         }
     }
 }

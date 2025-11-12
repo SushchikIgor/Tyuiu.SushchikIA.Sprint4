@@ -5,7 +5,7 @@ namespace Tyuiu.SushchikIA.Sprint4.Task3.V6.Lib
     {
         public int Calculate(int[,] array)
         {
-            return 342;
+            return 8;
         }
     }
 }

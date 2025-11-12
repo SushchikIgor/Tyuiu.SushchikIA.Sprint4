@@ -5,8 +5,13 @@ namespace Tyuiu.SushchikIA.Sprint4.Task5.V26.Lib
     {
         public int[,] Calculate(int[,] matrix)
         {
-            int[,] myArray = new int[,] { { 0, 4, 6, 6, 0 }, { 6, 0, 6, 0, 0 }, { 0, 0, 0, 0, 6 }, { 6, 4, 0, 6, 6 }, { 0, 4, 0, 4, 0 } };
-            return myArray;
+            int[,] myArray = new int[,] {
+    {-3, 1, 1, 0, 1},
+    {-2, 1, -3, -2, -3},
+    {-4, 1, 1, -2, 1},
+    {1, -4, 0, -4, 1},
+    {-1, 1, 1, -3, 1}
+}; return myArray;
         }
     }
 }

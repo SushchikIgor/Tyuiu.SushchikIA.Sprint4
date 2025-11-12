@@ -1,4 +1,4 @@
-﻿using Tyuiu.SushchikIA.Sprint4.Task2.V30.Lib;
+﻿using Tyuiu.SushchikIA.Sprint4.Task4.V30.Lib;
 
 DataService ds = new DataService();
 Console.Title = "Спринт #4 | Выполнил: Сущик И.А. | ПИНб-25-1";
@@ -14,5 +14,5 @@ Console.WriteLine("* Написать программу, которая зап�
 Console.WriteLine("* выполняет указанные расчёты и печатает результат на экране.             *");
 Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
 Console.WriteLine("***************************************************************************");
-int[] myIntArray = new int[5];
+int[,] myIntArray = new int[5, 5];
 Console.WriteLine(ds.Calculate(myIntArray));

@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.SushchikIA.Sprint4.Task2.V30.Test
+﻿namespace Tyuiu.SushchikIA.Sprint4.Task4.V30.Test
 {
     [TestClass]
     public sealed class Test1
